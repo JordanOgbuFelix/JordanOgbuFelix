@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JordanOgbuFelix
+- 👋 Hi, I am Jordan Ogbu Felix
 - 👀 I’m interested in biomedical engineering, neuroengineering, and machine learning.
 - 🌱 I’m currently learning machine learning and python .
 - 💞️ I’m looking to collaborate on projects involving engineering and machine learning 
