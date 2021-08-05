@@ -1,4 +1,4 @@
-- 👋 Hi, I am [Jordan Ogbu Felix](linkedin.com/in/jordan-ogbu-felix-935b601b0)
+- 👋 Hi, I am [Jordan Ogbu Felix](https://www.linkedin.com/in/jordan-ogbu-felix-935b601b0/)
 - 👀 I’m interested in biomedical engineering, neuroengineering, and machine learning.
 - 🌱 I’m currently learning machine learning and python .
 - 💞️ I’m looking to collaborate on projects involving engineering and machine learning 
